@@ -1,6 +1,8 @@
 # 👋Hello! You can call me Kayota!
 ____
 
+## 😶 Additional information:I come from **Ukraine** and my name is *Maxim* and my goal is to reach front-end juniorю
+
 ### 💻 My languages:
 *HTML* **CSS**
 (**The list will be updated**)
