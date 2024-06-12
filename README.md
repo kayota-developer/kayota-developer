@@ -14,4 +14,4 @@ ____
 ### 🚭 MY links:
 + [Telegram](https://t.me/kayota_frontend)
 + [Discord](https://discord.com/nersty.)
-+ [Tiktok](tiktok.com/@devykato)
++ [Tiktok](https://tiktok.com/@devykato)
