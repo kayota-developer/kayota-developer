@@ -4,7 +4,7 @@ Hi 👋 My name is Kayota
 Frontend developer
 ------------------
 
-I come from Ukraine, my goal is to become a front-end developer, and my name is Maxim.
+I am originally from Ukraine, my goal is to became a front-end developer, and my name is Maxim.
 
 ### Skills
 
