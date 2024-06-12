@@ -8,3 +8,8 @@ ____
 ____
 
 ### 😸 How old am I: ***11*** Years
+
+____
+
+### 🖋️ MY links:
+[Telegram](https://t.me/kayota_frontend)
