@@ -13,5 +13,5 @@ ____
 
 ### 🚭 MY links:
 + [Telegram](https://t.me/kayota_frontend)
-+ [Discord](https://discord.com/nersty.)
++ [Discord](https://discord.gg/nersty.)
 + [Tiktok](https://tiktok.com/@devykato)
