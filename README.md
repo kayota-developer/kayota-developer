@@ -13,4 +13,4 @@ ____
 
 ### 🚭 MY links:
 + [Telegram](https://t.me/kayota_frontend)
-+ [Discord](https://discord.nersty)
++ [Discord](https://discord.com/.nersty)
