@@ -6,8 +6,6 @@ Frontend developer
 
 I come from Ukraine, my goal is to become a front-end developer, and my name is Maxim.
 
-* 🚀  I'm currently working on [Telegram](http://t.me/kayota_frontend)
-
 ### Skills
 
 <p align="left">
