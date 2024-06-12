@@ -11,5 +11,6 @@ ____
 
 ____
 
-### 🖋️ MY links:
-[Telegram](https://t.me/kayota_frontend)
+### 🚭 MY links:
++[Telegram](https://t.me/kayota_frontend)
++[Discord]
