@@ -34,7 +34,7 @@
 
 
 <br><br><br>
-<h2 align="center">:page_with_curl: 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 :page_width_curl:</h2>
+<h2 align="center">:page_with_curl: 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 </h2>
 <div align="center">
    <img  src="./assets/xiao5.jpg" width="400"height="400" align="left">
 </div>
@@ -52,7 +52,7 @@
  <br>
  <p>𝐼 𝓌𝒶𝓃𝓉 𝓉𝑜 𝒷𝑒𝒸𝑜𝓂𝑒 𝒶 𝒿𝓊𝓃𝒾𝑜𝓇 𝒻𝓇𝑜𝓃𝓉𝑒𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 <br> 𝒶𝓃𝒹 𝐼'𝓂 𝓉𝓇𝓎𝒾𝓃𝑔 𝓉𝑜 𝓁𝑒𝒶𝓇𝓃 𝓉𝒽𝑒 𝓃𝑒𝒸𝑒𝓈𝓈𝒶𝓇𝓎 𝓉𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 <br> 𝓉𝑜 𝒶𝒸𝒽𝒾𝑒𝓋𝑒 𝓂𝓎 𝑔𝑜𝒶𝓁.</p>
  <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayota-developer&theme=blue-black https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayota-developer&theme=blue-green https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 
@@ -62,7 +62,7 @@
 <br><br><br><br>
 <h2 align="center">:envelope: 𝒢𝒾𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 :envelope:</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kayota-developer&theme=blue-dark https://github.com/anuraghazra/github-readme-stats" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=kayota-developer&theme=blue-green https://github.com/anuraghazra/github-readme-stats" align="left">
 <img src="./assets/xiao6.jpg" width="400" align="right">
 </div>
 
