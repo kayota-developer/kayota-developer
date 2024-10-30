@@ -55,7 +55,7 @@
 </div>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <h2 align="center">:phone: 𝒞𝑜𝓃𝓉𝒶𝒸𝓉𝓈 𝑀𝑒 :phone:</h2>
 <div>
 <img src="./assets/xiaoo.jpg"  align="left">
@@ -70,7 +70,7 @@
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="center">:wave: Bye! :wave:</h2>
 <div align="center">
 <img src="./assets/xiao4.jpg" width="500">
