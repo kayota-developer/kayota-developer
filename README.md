@@ -33,7 +33,7 @@
 </div>
 
 
-<br><br><br>
+<br><br>
 <h2 align="center">:page_with_curl: 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 </h2>
 <div align="center">
    <img  src="./assets/xiao5.jpg" width="400"height="400" align="left">
@@ -55,7 +55,7 @@
 </div>
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <h2 align="center">:phone: 𝒞𝑜𝓃𝓉𝒶𝒸𝓉𝓈 𝑀𝑒 :phone:</h2>
 <div>
 <img src="./assets/xiaoo.jpg"  align="left">
