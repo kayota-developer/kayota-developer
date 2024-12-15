@@ -32,7 +32,6 @@
  <p><b>Hobbys: Web-Proggramming,Gaming</b></p>
  <p><b>OS: Linux Mint</b></p>
  </div>
- <br>
 
  ###
 
@@ -64,7 +63,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayota-developer&layout=compact&theme=tokyonight)
  </div>
- <br> <br>
+ <br>
 
  ###
 <div align="center">
