@@ -26,11 +26,11 @@
  ###
 
  <div align="center">
- <li><b>Name: Kayota</b></li>
- <li><b>Age: 11</b></li>
- <li><b>Region: UA</b></li>
- <li><b>Hobbys: Web-Proggramming,Gaming</b></li>
- <li><b>OS: Linux Mint</b></li>
+ <p><b>Name: Kayota</b></p>
+ <p><b>Age: 11</b></p>
+ <p><b>Region: UA</b></p>
+ <p><b>Hobbys: Web-Proggramming,Gaming</b></p>
+ <p><b>OS: Linux Mint</b></p>
  </div>
  <br>
 
