@@ -25,7 +25,7 @@
 
  ###
 
- <div align="left">
+ <div align="center">
  <li><b>Name: Kayota</b></li>
  <li><b>Age: 11</b></li>
  <li><b>Region: UA</b></li>
@@ -42,11 +42,11 @@
 
  ###
 
- <h3 align="left">:page_with_curl: Technologies: </h3>
+ <h3 align="center">:page_with_curl: Technologies: </h3>
 
  ###
 
- <div align="left">
+ <div align="center">
  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="50">
  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="50">
@@ -57,7 +57,7 @@
 
  ###
 
- <h3 align="left">:fire: My statistics</h3>
+ <h3 align="center">:fire: My statistics</h3>
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayota-developer&show_icons=true&theme=tokyonight)
 
