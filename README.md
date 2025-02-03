@@ -27,7 +27,7 @@
 
  <div align="center">
  <p><b>Name: Kayota</b></p>
- <p><b>Age: 12</b></p>
+ <p><b>Age: ???</b></p>
  <p><b>Region: UA</b></p>
  <p><b>Hobbys: Web-Proggramming,Gaming</b></p>
  <p><b>OS: Linux Mint / win 10</b></p>
